@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**sai0521/sai0521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Hema Sai Keta
 
-Here are some ideas to get you started:
+Aspiring Software Engineer with experience in full-stack web development and mobile app development. I enjoy building clean, scalable applications and solving real problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech:** Java, Python, C++, React.js, React Native, Node.js, Express.js, MongoDB, MySQL
+**Focus:** Full-stack development, REST APIs, JWT auth, and problem-solving (520+ coding challenges solved)
+
+### 🔥 Projects
+
+* **Blog App** – JWT auth, CRUD posts, pagination
+* **E-commerce App** – Product pages, cart, orders (React Native)
+* **AI Resume Builder** – Secure resume creation with REST APIs
+
+Feel free to explore my repositories and connect! 🚀
